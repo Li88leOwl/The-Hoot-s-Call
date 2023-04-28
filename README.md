@@ -1,4 +1,4 @@
-# The-Hoot-s-Call
+# The-Hoot-s-Call :owl:
 
 With an extensive list of both open-source and commercial tools, this repository aims to provide you with the flexibility and freedom to choose the tools that suit your specific needs. Whether you're a beginner or an experienced hacker, you'll find valuable resources to help you expand your knowledge and sharpen your skills.
 
