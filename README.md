@@ -9,7 +9,7 @@ So what are you waiting for? Explore "The Hoot's Call" today and take your hacki
   <a href="https://www.linkedin.com/in/jeffery-gerald-334227265/"> Jeffery Gerald</a> :man_technologist:
   
 </div>
-                           
+     <br>                      
 > “THIS WILL BE A DAY LONG REMEMBERED. IT HAS SEEN THE END OF KENOBI. IT WILL SOON SEE THE END OF THE REBELLION.” ~ Darth Vader
 
 <hr>
