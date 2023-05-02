@@ -16,5 +16,5 @@ So what are you waiting for? Explore "The Hoot's Call" today and take your hacki
 
 <hr>
   
-  ⚛️ <h1>Compendium</h1>                                          
+<h1>  ⚛️ Compendium</h1>                                          
 
