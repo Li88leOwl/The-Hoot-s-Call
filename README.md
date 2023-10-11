@@ -28,15 +28,6 @@ Only main chapters:
 - **[Networks](#networks-toc)**
 - **[CLI Tools](#cli-tools-toc)**
 - **[GUI Tools](#gui-tools-toc)**
-- **[Containers/Orchestration](#containersorchestration-toc)**
-- **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
-- **[Inspiring Lists](#inspiring-lists-toc)**
-- **[Blogs/Podcasts/Videos](#blogspodcastsvideos-toc)**
-- **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
-- **[Other Cheat Sheets](#other-cheat-sheets-toc)**
-- **[Shell One-liners](#shell-one-liners-toc)**
-- **[Shell Tricks](#shell-tricks-toc)**
-- **[Shell Functions](#shell-functions-toc)**
 ## :trident: &nbsp;# The-Hoot-s-Call :owl: (Chapters)
 #### Systems/Services &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
@@ -119,6 +110,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
   
 </p>
+
 ##### :black_small_square: Wordlists and Weak passwords
 
 <p>
@@ -613,4 +605,16 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
+</p>
+
+##### :black_small_square: Text editors
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.vim.org/"><b>vim</b></a> - is a highly configurable text editor.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zyedidia/micro"><b>micro</b></a> - is a modern and intuitive terminal-based text editor.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://neovim.io/"><b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
 </p>
