@@ -16,5 +16,23 @@ So what are you waiting for? Explore "The Hoot's Call" today and take your hacki
 
 <hr>
   
-<h1>  ⚛️ Compendium:</h1>                                          
+<h1>  ⚛️ TABLE OF CONTENT:</h1>   
+Only main chapters:
+
+- **[CLI Tools](#cli-tools-toc)**
+- **[GUI Tools](#gui-tools-toc)**
+- **[Web Tools](#web-tools-toc)**
+- **[Systems/Services](#systemsservices-toc)**
+- **[Networks](#networks-toc)**
+- **[Containers/Orchestration](#containersorchestration-toc)**
+- **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
+- **[Inspiring Lists](#inspiring-lists-toc)**
+- **[Blogs/Podcasts/Videos](#blogspodcastsvideos-toc)**
+- **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
+- **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
+- **[Other Cheat Sheets](#other-cheat-sheets-toc)**
+- **[Shell One-liners](#shell-one-liners-toc)**
+- **[Shell Tricks](#shell-tricks-toc)**
+- **[Shell Functions](#shell-functions-toc)**
+## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
