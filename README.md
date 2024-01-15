@@ -34,7 +34,7 @@ Only main chapters:
 ##### :black_small_square: Operating Systems
 
 <p>
-&nbsp;&nbsp;: :octocat:<a href="https://www.parrotsec.org/"><b>Parrot Security OS</b></a> - cyber security GNU/Linux environment.<br>
+&nbsp;&nbsp; :octocat:<a href="https://www.parrotsec.org/"><b>Parrot Security OS</b></a> - cyber security GNU/Linux environment.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://blackarch.org/"><b>BlackArch</b></a> - is an Arch Linux-based penetration testing distribution for penetration testers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.pentoo.ch/"><b>Pentoo</b></a> - is a security-focused livecd based on Gentoo.<br>
