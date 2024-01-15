@@ -35,10 +35,10 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; :octocat:<a href="https://www.parrotsec.org/"><b>Parrot Security OS</b></a> - cyber security GNU/Linux environment.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://blackarch.org/"><b>BlackArch</b></a> - is an Arch Linux-based penetration testing distribution for penetration testers.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.pentoo.ch/"><b>Pentoo</b></a> - is a security-focused livecd based on Gentoo.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://securityonion.net/"><b>Security Onion</b></a> - Linux distro for intrusion detection, enterprise security monitoring, and log management.<br>
+&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.backbox.org/"><b>Backbox Linux</b></a> - penetration test and security assessment oriented Ubuntu-based Linux distribution.<br>
+&nbsp;&nbsp; :small_orange_diamond: <a href="https://blackarch.org/"><b>BlackArch</b></a> - is an Arch Linux-based penetration testing distribution for penetration testers.<br>
+&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.pentoo.ch/"><b>Pentoo</b></a> - is a security-focused livecd based on Gentoo.<br>
+&nbsp;&nbsp; :small_orange_diamond: <a href="https://securityonion.net/"><b>Security Onion</b></a> - Linux distro for intrusion detection, enterprise security monitoring, and log management.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
